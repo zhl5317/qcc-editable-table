@@ -73,7 +73,7 @@ disabled | 是否禁止编辑 | Boolean  | —— | true
 showIcon | 是否显示表头类型图标 | Boolean  | —— | false
 cellStyle | 单元格的 style 的回调方法 | Function({row, column, rowIndex, columnIndex}) | —— | ——
 cellClassName | 单元格的 className 的回调方法 | Function({row, column, rowIndex, columnIndex})  | —— | ——
-editAbel | 是否允许编辑表头 | Boolean  | —— | false
+editAble | 是否允许编辑表头 | Boolean  | —— | false
 fixAble | 是否允许固定表头 | Boolean  | —— | false
 addAble | 是否允许加行 | Boolean  | —— | false
 deleteAble | 是否允许删行 | Boolean  | —— | false
